@@ -1,0 +1,1 @@
+## Modelo VAE pre-entrenado
